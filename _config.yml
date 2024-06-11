@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://exalt-project.github.io"
+url: "https://arcticwatch-erc.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: EXALT                                            # site's title
-description: "EXtreme weather Attribution at mid- and high-Latitudes using advanced statistical Techniques"      # used by search engines
+title: ArcticWATCH                                            # site's title
+description: "Early warning of future rapid Arctic sea ice loss"      # used by search engines
 avatar: assets/img/icon_pdfs.png                         # Empty for no avatar in navbar
 favicon: assets/img/icon_pdfs.png                            # Icon displayed in the tab
 
