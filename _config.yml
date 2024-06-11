@@ -5,8 +5,8 @@ url: "https://arcticwatch-erc.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: ArcticWATCH                                            # site's title
 description: "Early warning of future rapid Arctic sea ice loss"      # used by search engines
-avatar: assets/img/logoAW.png                         # Empty for no avatar in navbar
-favicon: assets/img/logoAW.png                            # Icon displayed in the tab
+avatar: assets/img/logos/ArcticWATCH_logo.png                         # Empty for no avatar in navbar
+favicon: assets/img/logos/ArcticWATCH_logo.png                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
