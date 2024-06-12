@@ -12,7 +12,7 @@ free conditions almost every year from mid-century [1,2,3], leading to disruptiv
 impacts [4].
 
 <img src="/assets/img/ipcc6_seaice.png" width = "100%">
-*Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* ([Fig. 9.13. of the IPCC 6th Assessment Report](https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13))
+*Figure: Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* ([Fig. 9.13. of the IPCC 6th Assessment Report](https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13))
 
 
 There is, however, growing evidence that **the future summer sea ice retreat will not occur at a constant
@@ -21,7 +21,7 @@ long-term trend, leading to periods of relative stability followed by abrupt sea
 
 <img src="/assets/img/fig1.png" width = "100%" >
 
-*Three (out of 35) “ensemble members”, i.e., plausible trajectories of, September Arctic sea ice extent
+*Figure: Three (out of 35) “ensemble members”, i.e., plausible trajectories of, September Arctic sea ice extent
 evolution according to a climate model (CESM1-CAM5). Three rapid ice loss events (defined here as trends exceeding –0.5
 million km2/year for 5 years or more), are highlighted in cyan. (d) 35-member CESM1-CAM5 ensemble mean. (e) satellite
 observations. In all panels, the grey background shading is the CESM1-CAM5 range of the 35-member ensemble. The
