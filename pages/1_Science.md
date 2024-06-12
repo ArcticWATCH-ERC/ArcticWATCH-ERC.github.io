@@ -8,7 +8,7 @@ tags: [Page]
 # General context
 
 The Arctic is currently transitioning toward a **new climatic state** that will be characterized by seasonally sea ice-
-free conditions almost every year from the 2050s [1,2,3], with major ecological, climatic, and societal
+free conditions almost every year from mid-century [1,2,3], leading to disruptive ecological, climatic, and societal
 consequences [4].
 
 <img src="/assets/img/ipcc6_seaice.png" width = "100%">
