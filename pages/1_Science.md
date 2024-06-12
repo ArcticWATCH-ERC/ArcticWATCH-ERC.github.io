@@ -98,6 +98,8 @@ timescales.
 
 
 
+# References
+
 [1] Massonnet, F., Fichefet, T., Goosse, H., Bitz, C. M., Philippon-Berthier, G., Holland, M. M., & Barriat, P.-Y. (2012). Constraining projections of summer Arctic sea ice. The Cryosphere, 6(6), 1383–1394. https://doi.org/10.5194/tc-6-1383-2012
 
 [2] Jahn, A., Holland, M. M., & Kay, J. E. (2024). Projections of an ice-free Arctic Ocean. Nature Reviews Earth & Environment, 1–13. https://doi.org/10.1038/s43017-023-00515-9
