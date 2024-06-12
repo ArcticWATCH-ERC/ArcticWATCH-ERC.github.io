@@ -21,7 +21,7 @@ There is, however, growing evidence that the future summer sea ice retreat will 
 rate. Indeed, climate model simulations are suggestive of pronounced sub-decadal fluctuations on top of the
 long-term trend, leading to periods of relative stability followed by abrupt sea ice decline in hardly 3-5 years.
 
-<img src="/assets/img/fig1.png"/>
+<img src="/assets/img/fig1.png" width=100%/>
 *Three (out of 35) “ensemble members”, i.e., plausible trajectories of, September Arctic sea ice extent
 evolution according to a climate model (CESM1-CAM5). Three rapid ice loss events (defined here as trends exceeding –0.5
 million km2/year for 5 years or more), are highlighted in cyan. (d) 35-member CESM1-CAM5 ensemble mean. (e) satellite
