@@ -28,9 +28,62 @@ million km2/year for 5 years or more), are highlighted in cyan. (d) 35-member CE
 observations. In all panels, the grey background shading is the CESM1-CAM5 range of the 35-member ensemble. The
 vertical lines are the year 2021. Note: each of the 35 members simulates at least one rapid ice loss event before 2050.*
 
+# Objectives
 
+The overarching goal of ArcticWATCH is, in the context of climate science, to develop an evidence-based and real-time early warning system for predicting the probability of rapid Arctic sea ice loss events and their environmental impacts, for the following summer up to five years.
+
+This will be achieved by fulfilling four high-level objectives:
+**(O1)** Elucidating the precursors, drivers and mechanisms of past and future rapid Arctic sea ice decline
+**(O2)** Enhancing the capacity to forecast seasonal-to-interannual Arctic sea ice fluctuations
+**(O3)** Picturing the impacts of rapid sea ice retreat on the Arctic system and its surroundings
+**(O4)** Providing objective guidance for the design of future Arctic observing systems
+
+# Research questions
 A lot remains to be understood regarding the precursors, mechanisms, predictability, and impacts of these rapid
-events. In particular, it is unclear how close we might be to the next one.
+events. 
+
+- What are the relative contributions of thermodynamic (basal and surface sea ice melt) vs.
+dynamic (wind-driven sea ice export) processes during RILEs? Where does freshwater induced by
+sea ice melt go during such events?
+
+- What is the climatological probability of RILEs from today to mid-century? What are their
+characteristics (magnitude, lifetime, spatial patterns)?
+
+- What are the typical atmospheric and oceanic patterns prior to RILEs? Are such events favored
+when particular phases of main modes of atmospheric and/or variability (Pacific Decadal Oscillation,
+Pacific North American pattern, (North) Arctic Oscillation) occur? Is Arctic sea ice increasingly feeling
+by influences originating from the Pacific sector?
+
+- What are the causes for the accelerated decline in sea ice during the 2000s, and the causes for the
+relatively stable conditions since the 2010s? Is this sequence linked to the global mean temperatures
+slow-down (‘hiatus’)? Are we at the verge of a new rapid sea ice decline? What is the probability
+of observing ‘pauses’ in Arctic sea ice decline before mid-century?
+
+- Can RILEs trigger the disappearance of the Arctic’s cold halocline layer that insulates the surface
+from warm and salty Atlantic Waters? Can significant exports of freshwater to the North Atlantic
+sector interfere with the global oceanic circulation, including the Atlantic Meridional Overturning
+Circulation?
+
+- Can the increased evaporation caused by sustained sea ice retreat lead to extreme heatwaves on
+contiguous regions, and possibly, extreme precipitation events on the Arctic coasts and inhabited
+islands?
+
+- What is the skill of dynamical S2I predictions initialized with sea ice concentration, thickness and
+SST information? What is the value of alternative, data-driven approaches? How to best combine
+different lines of evidence (dynamical and machine-learning models) to forewarn about the possibility
+of extreme reductions in sea ice?
+
+- Are the currently known mechanisms of sea ice predictability still valid in a warmer Arctic,
+characterized by thinner sea ice? To what extent are future mechanisms region-dependent, modeldependent,
+variable-dependent, season-dependent?
+
+- Is the current Arctic observing system fit for predicting sub-decadal fluctuations of
+Arctic sea ice during the next three decades, since new predictability mechanisms might
+emerge that will require a timely acquisition of new data to feed predictive models
+(statistical & dynamical)?
+
+
+# Project objectives
 The overall objective of this project, ArcticWATCH, is to build an integrated early warning system that alerts
 on the possibility of rapid Arctic sea ice loss for the following summer up to five years. This system will
 provide annually updated assessments and will synthesize multiple lines of evidence harvested from various
@@ -42,9 +95,7 @@ design of the Arctic observing system for the next 30 years. Finally, ArcticWATC
 in depicting environmental impacts during and after rapid sea ice loss events, from short (Arctic heatwaves
 and precipitation extremes) to long (interactions with the Arctic and North Atlantic oceanic circulation)
 timescales.
-The hypothesis that, after a decade of relatively stable conditions, Arctic sea ice is poised to an abrupt decline
-before 2030, will be paid utmost attention.
-*Climate change effects on compound effects. From [Zscheischler et al., 2020](https://www.nature.com/articles/s43017-020-0060-z).*
+
 
 
 [1] Massonnet, F., Fichefet, T., Goosse, H., Bitz, C. M., Philippon-Berthier, G., Holland, M. M., & Barriat, P.-Y. (2012). Constraining projections of summer Arctic sea ice. The Cryosphere, 6(6), 1383–1394. https://doi.org/10.5194/tc-6-1383-2012
