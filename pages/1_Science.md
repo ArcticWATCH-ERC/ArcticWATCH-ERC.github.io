@@ -5,6 +5,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
+# General context
 
 The Arctic is currently transitioning toward a new climatic state that will be characterized by seasonally sea ice-
 free conditions almost every year from the 2050s [1,2,3], with widespread ecological, climatic, and societal
