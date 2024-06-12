@@ -84,7 +84,7 @@ of extreme reductions in sea ice?
 characterized by thinner sea ice? To what extent are future mechanisms region-dependent, modeldependent,
 variable-dependent, season-dependent?
 
-- Is the ** current Arctic observing system fit for predicting sub-decadal fluctuations of
+- Is the **current Arctic observing system fit for predicting sub-decadal fluctuations of
 Arctic sea ice during the next three decades**, since new predictability mechanisms might
 emerge that will require a timely acquisition of new data to feed predictive models
 (statistical & dynamical)?
