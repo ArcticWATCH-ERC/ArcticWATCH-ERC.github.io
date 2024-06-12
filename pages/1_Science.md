@@ -34,9 +34,13 @@ The overarching goal of ArcticWATCH is, in the context of climate science, to **
 
 This will be achieved by fulfilling four high-level objectives:
 **(O1)** Elucidating the **precursors, drivers and mechanisms** of past and future rapid Arctic sea ice decline
+
 **(O2)** Enhancing the capacity to **forecast seasonal-to-interannual Arctic sea ice** fluctuations
+
 **(O3)** Picturing the **impacts of rapid sea ice retreat** on the Arctic system and its surroundings
+
 **(O4)** Providing objective guidance for the **design of future Arctic observing systems**
+
 
 # Research questions
 A lot remains to be understood regarding the precursors, mechanisms, predictability, and impacts of these rapid ice loss
