@@ -31,7 +31,7 @@ and hence the timing of RILEs.
 WP4 aims to explore alternative approaches to sea ice prediction, taking advantage of emerging approaches
 from data sciences.
 
-## Impacts of rapid ice loss events
+## WP5: Impacts of rapid ice loss events
 Once a rapid ice loss is occurring, and regardless of whether or not it was successfully predicted, it will leave
 long-lasting imprints on the atmosphere and ocean. WP5 will study the impacts of RILEs on the Arctic system,
 and in particular of the most extreme sea ice drops which can be viewed as low probability but potentially high
