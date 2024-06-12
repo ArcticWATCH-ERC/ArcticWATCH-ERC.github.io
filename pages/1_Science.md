@@ -5,34 +5,36 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-There is now undisputed evidence that the Earth’s climate has changed at an unusually rapid pace during
-the last decades, that these changes bear a clear human signature, and that they will intensify if anthropogenic
-emissions of greenhouse gases continue unabated. Climate changes are most frequently communicated
-in terms of means (increasing global mean temperature, rising mean sea level), while in fact they often have
-a larger impact on the occurrence of extreme events, such as persistent heat waves and coastal floods, that
-tangibly affect our societies.
 
-Characterizing such events and quantifying their occurrence probabilities are significant challenges to be
-addressed in order to equip society with resilient adaptation solutions. <i> Attribution science </i> aims at evaluating
-the relative contributions of multiple causal factors or drivers to an extreme weather event (e.g., an individual
-heat wave) or a climate feature (e.g., a long-term trend in temperature) with an assignment of statistical
-confidence.
+The Arctic is currently transitioning toward a new climatic state that will be characterized by seasonally sea ice-
+free conditions almost every year from the 2050s [1,2,3], with widespread ecological, climatic, and societal
+consequences [4,5,6]
 
-Attribution studies being concerned with low-probability weather and climate events, they often make
-use of Extreme Value Theory (EVT), the branch of statistics that provides models for events with low frequency
-yet potentially severe impact. Unfortunately, in their standard form, the statistical distributions of EVT are appropriate
-for stationary data only, while the core of the problem is that the climate is changing over time.
 
-Another challenging aspect is that extreme climate events often result from a combination of interacting
-processes, resulting in compound events. For instance, high summer temperatures coupled with a lack
-of precipitation may cause soil moisture deficit, potentially leading to an unusually persistent drought. Thus,
-a significant challenge is to model two or more random variables of interest simultaneously, taking the
-dependence between their extremes (the tail dependence) into account. 
-
-**The overall objective of EXALT is to introduce a novel comprehensive framework for extreme event attribution
-and to apply it to the most influential events in the mid-high latitudes**, namely **heatwaves and
-compound drought-heat events over Europe, floods in southern and northern Europe, and sea ice extent over
-the Antarctic**. 
-
+There is growing evidence that the future summer sea ice retreat will not occur at a constant
+rate. Indeed, climate model simulations are suggestive of pronounced sub-decadal fluctuations on top of the
+long-term trend, leading to periods of relative stability followed by abrupt sea ice decline in hardly 3-5 years.
+A lot remains to be understood regarding the precursors, mechanisms, predictability, and impacts of these rapid
+events. In particular, it is unclear how close we might be to the next one.
+The overall objective of this project, ArcticWATCH, is to build an integrated early warning system that alerts
+on the possibility of rapid Arctic sea ice loss for the following summer up to five years. This system will
+provide annually updated assessments and will synthesize multiple lines of evidence harvested from various
+data sources (pre-existing and generated during the project), including climate model projections, initialized
+climate model and machine-learning-based predictions, satellite observations, and climate reconstructions.
+By introducing innovative targeted numerical experiments, ArcticWATCH will also identify the new pathways
+of sea ice predictability in a warmer world and will thereby provide evidence-based guidance regarding the
+design of the Arctic observing system for the next 30 years. Finally, ArcticWATCH will make a leap forward
+in depicting environmental impacts during and after rapid sea ice loss events, from short (Arctic heatwaves
+and precipitation extremes) to long (interactions with the Arctic and North Atlantic oceanic circulation)
+timescales.
+The hypothesis that, after a decade of relatively stable conditions, Arctic sea ice is poised to an abrupt decline
+before 2030, will be paid utmost attention.
 <img src="/assets/img/Compounds.jpg" height = "400px">
 *Climate change effects on compound effects. From [Zscheischler et al., 2020](https://www.nature.com/articles/s43017-020-0060-z).*
+
+
+[1] Massonnet, F., Fichefet, T., Goosse, H., Bitz, C. M., Philippon-Berthier, G., Holland, M. M., & Barriat, P.-Y. (2012). Constraining projections of summer Arctic sea ice. The Cryosphere, 6(6), 1383–1394. https://doi.org/10.5194/tc-6-1383-2012
+
+[2] Jahn, A., Holland, M. M., & Kay, J. E. (2024). Projections of an ice-free Arctic Ocean. Nature Reviews Earth & Environment, 1–13. https://doi.org/10.1038/s43017-023-00515-9
+
+[3] https://www.climate.gov/news-features/understanding-climate/five-things-understand-about-ice-free-arctic
