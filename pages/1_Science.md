@@ -12,7 +12,7 @@ free conditions almost every year from the 2050s [1,2,3], with major ecological,
 consequences [4].
 
 <img src="/assets/img/ipcc6_seaice.png" width = "100%">
-*Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* (fig. 9.13. of the IPCC 6th Assessment Report (10.1017/9781009157896.011)[https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13]*
+*Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* ([Fig. 9.13. of the IPCC 6th Assessment Report](https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13))
 
 
 There is, however, growing evidence that **the future summer sea ice retreat will not occur at a constant
