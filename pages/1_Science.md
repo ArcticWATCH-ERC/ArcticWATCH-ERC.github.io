@@ -7,8 +7,8 @@ tags: [Page]
 
 # General context
 
-The Arctic is currently transitioning toward a new climatic state that will be characterized by seasonally sea ice-
-free conditions almost every year from the 2050s [1,2,3], with widespread ecological, climatic, and societal
+The Arctic is currently transitioning toward a **new climatic state** that will be characterized by seasonally sea ice-
+free conditions almost every year from the 2050s [1,2,3], with major ecological, climatic, and societal
 consequences [4].
 
 
@@ -19,7 +19,7 @@ consequences [4].
 
 There is, however, growing evidence that the future summer sea ice retreat will not occur at a constant
 rate. Indeed, climate model simulations are suggestive of pronounced sub-decadal fluctuations on top of the
-long-term trend, leading to periods of relative stability followed by abrupt sea ice decline in hardly 3-5 years.
+long-term trend, leading to periods of relative stability followed by abrupt sea ice decline in hardly 3-5 years:
 
 <img src="/assets/img/fig1.png" width=100% />
 *Three (out of 35) “ensemble members”, i.e., plausible trajectories of, September Arctic sea ice extent
