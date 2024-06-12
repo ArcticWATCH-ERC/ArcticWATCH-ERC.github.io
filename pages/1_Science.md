@@ -17,8 +17,8 @@ consequences [4].
 *Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* (fig. 9.13. of the IPCC 6th Assessment Report (10.1017/9781009157896.011)[https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13]*
 
 
-There is, however, growing evidence that the future summer sea ice retreat will not occur at a constant
-rate. Indeed, climate model simulations are suggestive of pronounced sub-decadal fluctuations on top of the
+There is, however, growing evidence that **the future summer sea ice retreat will not occur at a constant
+rate**. Indeed, climate model simulations are suggestive of **pronounced sub-decadal fluctuations** on top of the
 long-term trend, leading to periods of relative stability followed by abrupt sea ice decline in hardly 3-5 years:
 
 <img src="/assets/img/fig1.png" width = 100% >
@@ -30,32 +30,34 @@ vertical lines are the year 2021. Note: each of the 35 members simulates at leas
 
 # Objectives
 
-The overarching goal of ArcticWATCH is, in the context of climate science, to develop an evidence-based and real-time early warning system for predicting the probability of rapid Arctic sea ice loss events and their environmental impacts, for the following summer up to five years.
+The overarching goal of ArcticWATCH is, in the context of climate science, to **develop an evidence-based and real-time early warning system for predicting the probability of rapid Arctic sea ice loss events and their environmental impacts, for the following summer up to five years.**
 
 This will be achieved by fulfilling four high-level objectives:
-**(O1)** Elucidating the precursors, drivers and mechanisms of past and future rapid Arctic sea ice decline
-**(O2)** Enhancing the capacity to forecast seasonal-to-interannual Arctic sea ice fluctuations
-**(O3)** Picturing the impacts of rapid sea ice retreat on the Arctic system and its surroundings
-**(O4)** Providing objective guidance for the design of future Arctic observing systems
+**(O1)** Elucidating the **precursors, drivers and mechanisms** of past and future rapid Arctic sea ice decline
+**(O2)** Enhancing the capacity to **forecast seasonal-to-interannual Arctic sea ice** fluctuations
+**(O3)** Picturing the **impacts of rapid sea ice retreat** on the Arctic system and its surroundings
+**(O4)** Providing objective guidance for the **design of future Arctic observing systems**
 
 # Research questions
-A lot remains to be understood regarding the precursors, mechanisms, predictability, and impacts of these rapid
-events. 
+A lot remains to be understood regarding the precursors, mechanisms, predictability, and impacts of these rapid ice loss
+events (RILEs for short). Specifically, ArcticWATCH aims to answer the following research questions:
 
-- What are the relative contributions of thermodynamic (basal and surface sea ice melt) vs.
-dynamic (wind-driven sea ice export) processes during RILEs? Where does freshwater induced by
-sea ice melt go during such events?
+- What are the relative contributions of **thermodynamic** (basal and surface sea ice melt) *vs.*
+**dynamic** (wind-driven sea ice export) processes during RILEs?
 
-- What is the climatological probability of RILEs from today to mid-century? What are their
+- What is the **fate of the freshwater** induced by sea ice melt during such events?
+
+- What is the **climatological probability of RILEs** from today to mid-century? What are their
 characteristics (magnitude, lifetime, spatial patterns)?
 
-- What are the typical atmospheric and oceanic patterns prior to RILEs? Are such events favored
+- What are the typical **atmospheric and oceanic patterns prior to RILEs**? Are such events favored
 when particular phases of main modes of atmospheric and/or variability (Pacific Decadal Oscillation,
-Pacific North American pattern, (North) Arctic Oscillation) occur? Is Arctic sea ice increasingly feeling
-by influences originating from the Pacific sector?
+Pacific North American pattern, (North) Arctic Oscillation) occur?
 
-- What are the causes for the accelerated decline in sea ice during the 2000s, and the causes for the
-relatively stable conditions since the 2010s? Is this sequence linked to the global mean temperatures
+- Is Arctic sea ice increasingly feeling influences originating from the Pacific sector?
+
+- What are the causes for the accelerated decline in sea ice during the 2000s, and the **causes for the
+relatively stable conditions since the 2010s?** Is this sequence linked to the global mean temperatures
 slow-down (‘hiatus’)? Are we at the verge of a new rapid sea ice decline? What is the probability
 of observing ‘pauses’ in Arctic sea ice decline before mid-century?
 
@@ -64,28 +66,28 @@ from warm and salty Atlantic Waters? Can significant exports of freshwater to th
 sector interfere with the global oceanic circulation, including the Atlantic Meridional Overturning
 Circulation?
 
-- Can the increased evaporation caused by sustained sea ice retreat lead to extreme heatwaves on
-contiguous regions, and possibly, extreme precipitation events on the Arctic coasts and inhabited
+- Can the increased evaporation caused by sustained sea ice retreat lead to **extreme heatwaves on
+contiguous regions**, and possibly, extreme precipitation events on the Arctic coasts and inhabited
 islands?
 
 - What is the skill of dynamical S2I predictions initialized with sea ice concentration, thickness and
-SST information? What is the value of alternative, data-driven approaches? How to best combine
+SST information? What is the value of alternative, **data-driven approaches**? How to best combine
 different lines of evidence (dynamical and machine-learning models) to forewarn about the possibility
 of extreme reductions in sea ice?
 
-- Are the currently known mechanisms of sea ice predictability still valid in a warmer Arctic,
+- Are the currently known **mechanisms of sea ice predictability still valid in a warmer Arctic**,
 characterized by thinner sea ice? To what extent are future mechanisms region-dependent, modeldependent,
 variable-dependent, season-dependent?
 
-- Is the current Arctic observing system fit for predicting sub-decadal fluctuations of
-Arctic sea ice during the next three decades, since new predictability mechanisms might
+- Is the ** current Arctic observing system fit for predicting sub-decadal fluctuations of
+Arctic sea ice during the next three decades**, since new predictability mechanisms might
 emerge that will require a timely acquisition of new data to feed predictive models
 (statistical & dynamical)?
 
 
 # Project objectives
-The overall objective of this project, ArcticWATCH, is to build an integrated early warning system that alerts
-on the possibility of rapid Arctic sea ice loss for the following summer up to five years. This system will
+The overall objective of this project, ArcticWATCH, is to build an **integrated early warning system that alerts
+on the possibility of rapid Arctic sea ice loss for the following summer up to five years**. This system will
 provide annually updated assessments and will synthesize multiple lines of evidence harvested from various
 data sources (pre-existing and generated during the project), including climate model projections, initialized
 climate model and machine-learning-based predictions, satellite observations, and climate reconstructions.
