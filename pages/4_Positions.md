@@ -6,4 +6,4 @@ position: 4
 tags: [Page]
 ---
 
-There are no open positions for this project at the moment. However, spontaneous applications are always welcome and will be reviewed on a case-by-case basis. Reach out to (François Massonnet)[francois.massonnet@uclouvain.be] if you are interested in working with us on these topics
+There are no open positions for this project at the moment. However, spontaneous applications are always welcome and will be reviewed on a case-by-case basis. Reach out to [François Massonnet][mailto:francois.massonnet@uclouvain.be] if you are interested in working with us on these topics
