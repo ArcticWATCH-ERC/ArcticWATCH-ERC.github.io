@@ -16,9 +16,13 @@ consequences [4].
 *Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* (fig. 9.13. of the IPCC 6th Assessment Report (10.1017/9781009157896.011)[https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13]*
 
 
-There is growing evidence that the future summer sea ice retreat will not occur at a constant
+There is, however, growing evidence that the future summer sea ice retreat will not occur at a constant
 rate. Indeed, climate model simulations are suggestive of pronounced sub-decadal fluctuations on top of the
 long-term trend, leading to periods of relative stability followed by abrupt sea ice decline in hardly 3-5 years.
+
+<img src="assets/img/ipcc_seaice.png" height = "400px"/>
+
+
 A lot remains to be understood regarding the precursors, mechanisms, predictability, and impacts of these rapid
 events. In particular, it is unclear how close we might be to the next one.
 The overall objective of this project, ArcticWATCH, is to build an integrated early warning system that alerts
