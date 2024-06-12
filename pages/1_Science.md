@@ -30,7 +30,7 @@ vertical lines are the year 2021. Note: each of the 35 members simulates at leas
 
 # Objectives
 
-The overarching goal of ArcticWATCH is, in the context of climate science, to **develop an evidence-based and real-time early warning system for predicting the probability of rapid Arctic sea ice loss events and their environmental impacts, for the following summer up to five years.**
+The overarching goal of ArcticWATCH is, in the context of climate science, to **develop an evidence-based and real-time early warning system for predicting the probability of rapid Arctic sea ice loss events and their environmental impacts** for the following summer up to five years.
 
 This will be achieved by fulfilling four high-level objectives:
 
