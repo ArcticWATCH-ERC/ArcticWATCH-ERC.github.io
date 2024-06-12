@@ -8,10 +8,12 @@ tags: [Page]
 
 The Arctic is currently transitioning toward a new climatic state that will be characterized by seasonally sea ice-
 free conditions almost every year from the 2050s [1,2,3], with widespread ecological, climatic, and societal
-consequences [4]
+consequences [4].
 
-<img src="assets/img/ipcc_seaice.png" height = "400px">
-*Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* (fig. 9.13. of the (10.1017/9781009157896.011)[https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13]*
+
+<img src="assets/img/ipcc_seaice.png" height = "400px"/>
+
+*Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* (fig. 9.13. of the IPCC 6th Assessment Report (10.1017/9781009157896.011)[https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13]*
 
 
 There is growing evidence that the future summer sea ice retreat will not occur at a constant
