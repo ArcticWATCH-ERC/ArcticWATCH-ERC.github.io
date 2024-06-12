@@ -8,7 +8,7 @@ tags: [Page]
 
 The Arctic is currently transitioning toward a new climatic state that will be characterized by seasonally sea ice-
 free conditions almost every year from the 2050s [1,2,3], with widespread ecological, climatic, and societal
-consequences [4,5,6]
+consequences [4]
 
 <img src="assets/img/ipcc_seaice.png" height = "400px">
 *Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* (fig. 9.13. of the (10.1017/9781009157896.011)[https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13]*
@@ -40,3 +40,5 @@ before 2030, will be paid utmost attention.
 [2] Jahn, A., Holland, M. M., & Kay, J. E. (2024). Projections of an ice-free Arctic Ocean. Nature Reviews Earth & Environment, 1–13. https://doi.org/10.1038/s43017-023-00515-9
 
 [3] https://www.climate.gov/news-features/understanding-climate/five-things-understand-about-ice-free-arctic
+
+[4] https://nsidc.org/learn/ask-scientist/what-are-impacts-arctic-sea-ice-loss
