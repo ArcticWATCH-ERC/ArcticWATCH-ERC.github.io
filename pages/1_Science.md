@@ -10,6 +10,9 @@ The Arctic is currently transitioning toward a new climatic state that will be c
 free conditions almost every year from the 2050s [1,2,3], with widespread ecological, climatic, and societal
 consequences [4,5,6]
 
+<img src="assets/img/ipcc_seaice.png" height = "400px">
+*Arctic sea ice historical records and Coupled Model Intercomparison Project Phase 6 (CMIP6) projections* (fig. 9.13. of the (10.1017/9781009157896.011)[https://www.ipcc.ch/report/ar6/wg1/figures/chapter-9/figure-9-13]*
+
 
 There is growing evidence that the future summer sea ice retreat will not occur at a constant
 rate. Indeed, climate model simulations are suggestive of pronounced sub-decadal fluctuations on top of the
@@ -29,7 +32,6 @@ and precipitation extremes) to long (interactions with the Arctic and North Atla
 timescales.
 The hypothesis that, after a decade of relatively stable conditions, Arctic sea ice is poised to an abrupt decline
 before 2030, will be paid utmost attention.
-<img src="/assets/img/Compounds.jpg" height = "400px">
 *Climate change effects on compound effects. From [Zscheischler et al., 2020](https://www.nature.com/articles/s43017-020-0060-z).*
 
 
