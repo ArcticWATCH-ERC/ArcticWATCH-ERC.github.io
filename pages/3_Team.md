@@ -14,3 +14,7 @@ tags: [Page]
 
 
 
+<img src="/assets/img/pics/hoffman.jpg" height = "200px">
+
+Lauren is a postdoctoral researcher at UCLouvain. She uses machine learning methods to predict and understand Arctic sea-ice variability.
+
