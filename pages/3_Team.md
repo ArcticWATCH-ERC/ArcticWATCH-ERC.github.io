@@ -12,7 +12,9 @@ tags: [Page]
 
 [**François Massonnet**](https://www.climate.be/u/fmasson) is F.R.S.-FNRS Research Associate and part-time lecturer at the *Earth and Climate Centre* of the UCLouvain. His research interests focus on seasonal to interannual predictability and prediction of sea ice, the evaluation of climate models in polar regions, data assimilation and forecast verification.
 
+---
 
+# Team members
 
 <img src="/assets/img/pics/hoffman.jpg" height = "200px">
 
