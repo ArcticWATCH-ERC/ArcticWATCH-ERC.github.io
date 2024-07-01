@@ -25,3 +25,7 @@ Lauren Hoffman is a postdoctoral researcher at UCLouvain. She uses machine learn
 
 [**Patricia DeRepentigny**](https://uclouvain.be/en/directories/patricia.derepentigny) is a postdoctoral researcher at the *Earth and Climate Centre* of the Earth & Life Institute at UCLouvain. Her research focuses on future projections of Arctic sea ice and the multiple drivers of sea ice retreat on seasonal to century time scales in the context of forcing uncertainty and internal variability of the climate system.
 
+<img src="/assets/img/pics/alisondelhasse.jpg" height = "200px">
+
+[**Alison Delhasse**] is a postdoctoral researcher at *Earth and Climate Centre* of the Earth & Life Institute at UCLouvain. Her research focuses on ocean and sea ice data assimilation in the NEMO ocean model to enhance the representation of sea ice states, to develop a forecasting tool on a multi-seasonal scale to prevent rapid sea ice melt events.
+
