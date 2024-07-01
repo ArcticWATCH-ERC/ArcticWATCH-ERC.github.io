@@ -27,5 +27,5 @@ Lauren Hoffman is a postdoctoral researcher at UCLouvain. She uses machine learn
 
 <img src="/assets/img/pics/alisondelhasse.jpg" height = "200px">
 
-[**Alison Delhasse**] is a postdoctoral researcher at *Earth and Climate Centre* of the Earth & Life Institute at UCLouvain. Her research focuses on ocean and sea ice data assimilation in the NEMO ocean model to enhance the representation of sea ice states, to develop a forecasting tool on a multi-seasonal scale to prevent rapid sea ice melt events.
+**Alison Delhasse** is a postdoctoral researcher at *Earth and Climate Centre* of the Earth & Life Institute at UCLouvain. Her research focuses on ocean and sea ice data assimilation in the NEMO ocean model to enhance the representation of sea ice states, to develop a forecasting tool on a multi-seasonal scale to prevent rapid sea ice melt events.
 
