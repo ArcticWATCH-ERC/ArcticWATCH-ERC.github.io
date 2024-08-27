@@ -18,7 +18,7 @@ tags: [Page]
 
 <img src="/assets/img/pics/hoffman.jpg" height = "200px">
 
-Lauren Hoffman is a postdoctoral researcher at UCLouvain. She uses machine learning methods to predict and understand Arctic sea-ice variability.
+**Lauren Hoffman** is a postdoctoral researcher at UCLouvain. She uses machine learning methods to predict and understand Arctic sea-ice variability.
 
 
 <img src="/assets/img/pics/PatriciaDeRepentigny.jpg" height = "200px">
