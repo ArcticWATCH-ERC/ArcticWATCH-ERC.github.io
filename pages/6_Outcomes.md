@@ -12,7 +12,8 @@ position: 6
 A transfer operator initialized in July 2024 predicts that there is a 64% chance that September Arctic sea ice extent for 2024-2028 will be lower than the climatological mean of the natural variability for the 1850-2014 period.
 
 <img src="/assets/img/probabilistic_forecast_wheel_TO_5yr_2024_julyinit.png" width = "100%">
-*Figure: Probabilistic Prediction of Arctic Sea Ice Extent for 2024-2028*
+
+*Figure: Probabilistic Prediction of Arctic Sea Ice Extent for 2024-2028.*
 
 **About the model:** We train a transfer operator to predict the internal variability of September Arctic sea ice extent. A transfer operator is a statistical model that calculates the probability of a given output state based on the value of the input state (Sevellec and Drijfhout, 2018). The transfer operator used for this outlook predicts September SIE (output state) from July 2024 SIE (input state) for a 5 year lag time and moving mean. 
 
