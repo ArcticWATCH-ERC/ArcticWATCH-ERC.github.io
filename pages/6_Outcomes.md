@@ -7,9 +7,9 @@ position: 6
 ---
 
 # A Statistical Prediction of Arctic Sea Ice Extent
-**09 September 2024** 
+**27 February 2025** 
 
-A transfer operator initialized in July 2024 predicts that there is a 64% chance that September Arctic sea ice extent for 2024-2028 will be lower than the climatological mean of the natural variability for the 1850-2014 period.
+A transfer operator initialized in July 2024 predicts that there is a 86% chance that September Arctic sea ice extent for 2024-2028 will be higher than the climatological mean of the natural variability for the 1850-2014 period.
 
 <img src="/assets/img/probabilistic_forecast_wheel_TO_5yr_2024_julyinit.png" width = "100%">
 
@@ -23,9 +23,9 @@ A transfer operator initialized in July 2024 predicts that there is a 64% chance
 
 **The Data:**
 
-*Training:* For the training phase we use sea ice extent from the historical runs of ten different models in CMIP6 (models listed below), where the residual is calculated as the difference between each ensemble member and the respective model ensemble mean (the forced contribution). CMIP6 models used to train the transfer operator (Model name [number of members in brackets]): ACCESS-CM2[10], ACCESS-ESM1-5[40], CanESM5[25], CESM2-WACCM[3], IPSL-CM6A[33], MIROC6[50], MPI-ESM1-2-LR[30], MRI-ESM2-0[5], CNRM-CM6-1[10],  CNRM-ESM2-1[5].
+*Training:* For the training phase we use sea ice extent from the historical runs of ten different models in CMIP6 (models listed below), where the residual is calculated as the difference between each ensemble member and the respective model ensemble mean (the forced contribution). CMIP6 models used to train the transfer operator (Model name [number of members in brackets]): ACCESS-CM2[10], ACCESS-ESM1-5[40], CanESM5 [25], IPSL-CM6A[33], MIROC6[50], MRI-ESM2-0[10].
 
-*Testing:* The outlook prediction is made using a separate testing data set, where the input is the sea ice extent calculated from observations (NSIDC Monthly Sea Ice Index). Here, the forced contribution is different for the 1979-2014 and 2015-2024 period. For 1979-2014 the forced component is taken to be the weighted mean of the CMIP6 ensemble means, where the weights are based on the number of ensemble members used for each model. The historical CMIP6 runs do not have data past 2014, therefore we use the 5-year moving mean of the NSIDC observations as the forced component for 2015-2024. 
+*Testing:* The outlook prediction is made using a separate testing data set, where the input is the sea ice extent calculated from observations (NSIDC Monthly Sea Ice Index). Here, the forced contribution is different for the 1979-2014 and 2015-2024 period. The forced component is taken to be the weighted mean of the CMIP6 ensemble means from historical (1979-2014) and SSP5-8.5 (2015-2024) simulations, where the weights are based on the number of ensemble members used for each model. 
 
 **References**
 
