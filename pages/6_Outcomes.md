@@ -8,7 +8,7 @@ position: 6
 
 # ArcticWATCH Forecasts
 
-- [About the model](/forecasts/about/)
+- [About the model](/forecasts_about.md)
 - [Forecasts](/forecasts/)
 
 ---
