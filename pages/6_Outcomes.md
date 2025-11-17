@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Forecasts
+title: Outcomes
 feature-img: "assets/img/pexels/news.jpg"
 tags: [Page]
 position: 6
