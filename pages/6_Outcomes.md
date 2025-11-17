@@ -6,11 +6,9 @@ tags: [Page]
 position: 6
 ---
 
-- [About the model](#about-the-model)
-- [Forecasts](#forecasts)
-  - [2024](#forecasts-2024)
-  - [2025](#forecasts-2025)
-
+- [About the Model](/pages/outcomes/about)
+- [Forecasts](/pages/outcomes/forecasts)
+- 
 ---
 
 # A Statistical Prediction of Arctic Sea Ice Extent
