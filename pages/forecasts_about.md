@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About the model"
-permalink: /forecasts/about/
 hide: true
 ---
 
