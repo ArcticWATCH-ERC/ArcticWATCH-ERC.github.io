@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Outcomes
+title: Forecasts
 feature-img: "assets/img/pexels/news.jpg"
 tags: [Page]
 position: 6
+permalink: /forecasts/
 ---
 
 # ArcticWATCH Forecasts
 
 - [About the model](/forecasts/about/)
-- Forecasts
+- **Forecasts**
   - [2025](/forecasts/2025/)
   - [2024](/forecasts/2024/)  <!-- later, if you add it -->
 
