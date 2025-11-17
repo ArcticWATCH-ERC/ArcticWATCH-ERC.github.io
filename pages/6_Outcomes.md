@@ -8,7 +8,7 @@ position: 6
 
 - [About the Model](/pages/outcomes/about)
 - [Forecasts](/pages/outcomes/forecasts)
-- 
+
 ---
 
 # A Statistical Prediction of Arctic Sea Ice Extent
@@ -21,18 +21,3 @@ A transfer operator initialized in July 2024 predicts that there is a 86% chance
 *Figure: Probabilistic Prediction of Arctic Sea Ice Extent for 2024-2028.*
 
 
-
----
-
-## Forecasts {#forecasts}
-
-### 2024 {#forecasts-2024}
-
-#### July 2024 {#jul-2024}
-
-**Probabilistic forecast**
-
-<img src="/assets/img/probabilistic_forecast_wheel_TO_5yr_2024_julyinit.png" width="100%">
-
-**Reliability:** 0.86  
-*(read from `assets/ml_forecasts/reliability_0724.txt`)*
