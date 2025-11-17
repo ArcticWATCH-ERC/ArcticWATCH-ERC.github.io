@@ -6,9 +6,11 @@ tags: [Page]
 position: 6
 ---
 
-- [About the Model](/pages/outcomes/about)
-- [Forecasts](/pages/outcomes/forecasts)
+# ArcticWATCH Forecasts
 
+- [About the model](/forecasts/about/)
+- [Forecasts](/forecasts/)
+- 
 ---
 
 # A Statistical Prediction of Arctic Sea Ice Extent
