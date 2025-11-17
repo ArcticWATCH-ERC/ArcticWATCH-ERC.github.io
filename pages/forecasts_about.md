@@ -6,7 +6,6 @@ hide: true
 ---
 
 
-
 ## A Statistical Model to make Probabilistic Forecasts of September Arctic Sea Ice Extent
 
 **About the model:** We train a transfer operator to predict the internal variability of September Arctic sea ice extent. A transfer operator is a statistical model that calculates the probability of a given output state based on the value of the input state (Sevellec and Drijfhout, 2018). The transfer operator used for this outlook predicts September SIE (output state) from July 2024 SIE (input state) for a 5 year lag time and moving mean. 
