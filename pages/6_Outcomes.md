@@ -10,7 +10,7 @@ position: 6
 
 - [About the model](/forecasts/about/)
 - [Forecasts](/forecasts/)
-- 
+
 ---
 
 # A Statistical Prediction of Arctic Sea Ice Extent
