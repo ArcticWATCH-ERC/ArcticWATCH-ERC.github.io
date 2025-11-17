@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Forecasts
+title: News
 feature-img: "assets/img/pexels/news.jpg"
 tags: [Page]
 position: 6
 permalink: /forecasts/
 ---
+
 
 # ArcticWATCH Forecasts
 
