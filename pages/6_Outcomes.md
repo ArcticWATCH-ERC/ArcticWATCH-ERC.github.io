@@ -8,10 +8,11 @@ position: 6
 
 # ArcticWATCH Forecasts
 
-- [About the model]({% link pages/forecasts_about.md %})
-- [Forecasts](/forecasts/)
+- [About the model](/forecasts/about/)
+- Forecasts
+  - [2025](/forecasts/2025/)
+  - [2024](/forecasts/2024/)  <!-- later, if you add it -->
 
----
 
 # A Statistical Prediction of Arctic Sea Ice Extent
 **27 February 2025** 
