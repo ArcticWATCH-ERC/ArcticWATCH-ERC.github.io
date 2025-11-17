@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2025 Forecasts
-permalink: /forecasts/2025/
+title: 2024 Forecasts
+permalink: /forecasts/2024/
 hide: True
 ---
 
