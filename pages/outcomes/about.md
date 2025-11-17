@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Model
-permalink: /pages/outcomes/about/
+permalink: /pages/outcomes/
 ---
 
 ## A Statistical Model to make Probabilistic Forecasts of September Arctic Sea Ice Extent
