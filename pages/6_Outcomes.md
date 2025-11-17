@@ -1,9 +1,16 @@
 ---
 layout: page
-title: News
+title: Forecasts
 feature-img: "assets/img/pexels/news.jpg"
 tags: [Page]
 position: 6
+---
+
+- [About the model](#about-the-model)
+- [Forecasts](#forecasts)
+  - [2024](#forecasts-2024)
+  - [2025](#forecasts-2025)
+
 ---
 
 # A Statistical Prediction of Arctic Sea Ice Extent
@@ -14,6 +21,8 @@ A transfer operator initialized in July 2024 predicts that there is a 86% chance
 <img src="/assets/img/probabilistic_forecast_wheel_TO_5yr_2024_julyinit.png" width = "100%">
 
 *Figure: Probabilistic Prediction of Arctic Sea Ice Extent for 2024-2028.*
+
+## About the model
 
 **About the model:** We train a transfer operator to predict the internal variability of September Arctic sea ice extent. A transfer operator is a statistical model that calculates the probability of a given output state based on the value of the input state (Sevellec and Drijfhout, 2018). The transfer operator used for this outlook predicts September SIE (output state) from July 2024 SIE (input state) for a 5 year lag time and moving mean. 
 
@@ -34,3 +43,19 @@ Fetterer, F., Knowles, K., Meier, W. N., Savoie, M. & Windnagel, A. K. (2017). S
 Notz, D., Jahn, A., Holland, M., Hunke, E., Massonnet, F., Stroeve, J., Tremblay, B., and Vancoppenolle, M.: The CMIP6 Sea-Ice Model Intercomparison Project (SIMIP): understanding sea ice through climate-model simulations, Geosci. Model Dev., 9, 3427–3446, https://doi.org/10.5194/gmd-9-3427-2016, 2016.
 
 Sévellec, F., Drijfhout, S.S. A novel probabilistic forecast system predicting anomalously warm 2018-2022 reinforcing the long-term global warming trend. Nat Commun 9, 3024 (2018). https://doi.org/10.1038/s41467-018-05442-8
+
+
+---
+
+## Forecasts {#forecasts}
+
+### 2024 {#forecasts-2024}
+
+#### July 2024 {#jul-2024}
+
+**Probabilistic forecast**
+
+<img src="/assets/img/probabilistic_forecast_wheel_TO_5yr_2024_julyinit.png" width="100%">
+
+**Reliability:** 0.86  
+*(read from `assets/ml_forecasts/reliability_0724.txt`)*
