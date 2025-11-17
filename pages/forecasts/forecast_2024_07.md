@@ -2,6 +2,7 @@
 layout: page
 title: September 2024 Forecast
 permalink: /forecasts/2024/07/
+hide: True
 ---
 
 # September 2024 Forecast from a July 2024 Initialized Model
