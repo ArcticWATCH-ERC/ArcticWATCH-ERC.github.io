@@ -7,4 +7,4 @@ hide: True
 
 # 2026 Forecasts
 
-- [](/forecasts/2026/10/)
+- [October initialized](/forecasts/2026/10/)
