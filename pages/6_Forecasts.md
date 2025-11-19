@@ -8,8 +8,8 @@ permalink: /forecasts/
 ---
 
 
-## ArcticWATCH Forecasts
-# Statistical Predictions of September Arctic Sea Ice Extent
+# ArcticWATCH Forecasts
+### Statistical Predictions of September Arctic Sea Ice Extent
 
 - [About the model](/forecasts/about/)
 - **Forecasts**
