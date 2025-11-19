@@ -12,6 +12,7 @@ permalink: /forecasts/
 
 - [About the model](/forecasts/about/)
 - **Forecasts**
+  - [2026](/forecasts/2026/)
   - [2025](/forecasts/2025/)
   - [2024](/forecasts/2024/)  <!-- later, if you add it -->
 
