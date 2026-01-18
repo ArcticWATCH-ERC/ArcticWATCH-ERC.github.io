@@ -9,3 +9,4 @@ hide: True
 
 - [October initialized](/forecasts/2026/10/)
 - [November](/forecasts/2026/11/)
+- [December](/forecasts/2026/12/)
