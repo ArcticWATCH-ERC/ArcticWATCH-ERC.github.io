@@ -12,3 +12,4 @@ hide: True
 - [December](/forecasts/2026/12/)
 - [January](/forecasts/2026/01/)
 - [February](/forecasts/2026/02/)
+- [March](/forecasts/2026/03/)
