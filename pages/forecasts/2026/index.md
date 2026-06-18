@@ -14,3 +14,4 @@ hide: True
 - [February](/forecasts/2026/02/)
 - [March](/forecasts/2026/03/)
 - [April](/forecasts/2026/04/)
+- [May](/forecasts/2026/05/)
